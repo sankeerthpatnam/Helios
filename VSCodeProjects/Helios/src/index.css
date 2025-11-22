@@ -2,9 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Optional global styles */
+/* Add custom colors or fonts if needed */
 body {
-  @apply bg-black text-white;
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
-    sans-serif;
+  font-family: 'Inter', sans-serif;
 }
