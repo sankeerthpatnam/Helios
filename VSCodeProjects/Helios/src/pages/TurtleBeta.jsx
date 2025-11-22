@@ -1,8 +1,8 @@
-import Hero from "../../components/Hero";
-import SplitGraphicText from "../../components/SplitGraphicText";
-import SpecsGrid from "../../components/SpecsGrid";
-import TimelineSection from "../../components/TimelineSection";
-import CTASection from "../../components/CTASection";
+import Hero from "../components/Hero";
+import SplitGraphicText from "../components/SplitGraphicText";
+import SpecsGrid from "../components/SpecsGrid";
+import TimelineSection from "../components/TimelineSection";
+import CTASection from "../components/CTASection";
 
 const TurtleBeta = () => {
   return (
